@@ -1,0 +1,16 @@
+.row{
+    border-color: gray;
+    margin-bottom: 30px;
+    align-self: center;
+}
+.thumbnail img{
+
+    max-height: 200px;
+}
+.thumbnail .description{
+    color: #7f7f7f;
+}
+.price{
+    font-weight: bold;
+    font-size: 16px;
+}
